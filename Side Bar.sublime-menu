@@ -1,0 +1,21 @@
+[
+	{
+		"caption": "C++",
+		"children": [
+			{
+				"caption": "New Header",
+				"command": "new_cpp_header",
+				"args": {
+					"paths": [],
+				}
+			},
+			{
+				"caption": "New Class",
+				"command": "new_cpp_class",
+				"args": {
+					"paths": [],
+				}
+			}
+		]
+	}
+]
